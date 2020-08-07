@@ -1,1 +1,1 @@
-# pnas2020
+# 3D models used in the haptics paradigm
